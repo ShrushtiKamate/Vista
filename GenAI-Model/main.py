@@ -9,7 +9,7 @@ import time
 import seaborn as sns
 import pandas as pd
 
-genai.configure(api_key="AIzaSyCDSadSw6oKpiEZ_-446p3Ngn8n90I8aXs")
+genai.configure(api_key="Your api key")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 def load_jsonl_data(file_path):
