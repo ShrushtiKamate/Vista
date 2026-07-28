@@ -101,29 +101,6 @@ The system enables AICTE administrators, inspectors, and colleges to collaborate
 
 ---
 
-
-
-```text
-VISTA/
-│
-├── frontend/
-│
-├── backend/
-│
-├── AI_Models/
-│
-├── Database/
-│
-├── Images/
-│
-├── Reports/
-│
-└── README.md
-```
-
----
-
-
 # 📊 User Modules
 
 ### 🏛️ AICTE Admin
